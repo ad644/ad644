@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ad644
+- 👋 Hi, I’m Abhi D.
 - 👀 I’m interested in Writing blogs
 - 🌱 I’m currently learning Jekyll and Mandarin
 - 💞️ I’m looking to collaborate on Opensource projects
